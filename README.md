@@ -1,4 +1,4 @@
-Twitter-Sentiment-Analysis
+**Twitter-Sentiment-Analysis
 
 In this project we analyze the tweets based on the polarity. Polarity analysis takes into account the amount of positive or negative terms that appear in a given sentence. 
 It is useful to some extent, since it does a good job of structuring data sets.
@@ -7,16 +7,18 @@ Here we search for a particular topic(hashtag or any term) and give the number o
 
 Here we use TextBlob and Tweepy.
 
-TextBlob
+**TextBlob:
+
 TextBlob is a Python (2 and 3) library for processing textual data. 
 It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
 
-Tweepy
+**Tweepy:
+
 The Twitter API allows you to access the features of Twitter without having to go through the website interface.
 
-Reference:
-https://textblob.readthedocs.io/en/dev/
-https://tweepy.readthedocs.io/en/latest/
+**Reference:
+--https://textblob.readthedocs.io/en/dev/
+--https://tweepy.readthedocs.io/en/latest/
 
 (Further Improvement
 Just considering  polarity for sentiment analysis is not enough. 
